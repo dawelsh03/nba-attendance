@@ -1,0 +1,31 @@
+team,abbr,arena,capacity,market_size,conference,division
+Boston Celtics,BOS,TD Garden,19156,Large,East,Atlantic
+Brooklyn Nets,BRK,Barclays Center,17732,Large,East,Atlantic
+New York Knicks,NYK,Madison Square Garden,19812,Large,East,Atlantic
+Philadelphia 76ers,PHI,Wells Fargo Center,20478,Large,East,Atlantic
+Toronto Raptors,TOR,Scotiabank Arena,19800,Large,East,Atlantic
+Chicago Bulls,CHI,United Center,20917,Large,East,Central
+Cleveland Cavaliers,CLE,Rocket Arena,19432,Medium,East,Central
+Detroit Pistons,DET,Little Caesars Arena,20332,Medium,East,Central
+Indiana Pacers,IND,Gainbridge Fieldhouse,17923,Medium,East,Central
+Milwaukee Bucks,MIL,Fiserv Forum,17341,Small,East,Central
+Atlanta Hawks,ATL,State Farm Arena,16600,Medium,East,Southeast
+Charlotte Hornets,CHO,Spectrum Center,19077,Medium,East,Southeast
+Miami Heat,MIA,Kaseya Center,19600,Large,East,Southeast
+Orlando Magic,ORL,Kia Center,18846,Medium,East,Southeast
+Washington Wizards,WAS,Capital One Arena,20356,Large,East,Southeast
+Denver Nuggets,DEN,Ball Arena,19520,Medium,West,Northwest
+Minnesota Timberwolves,MIN,Target Center,18978,Medium,West,Northwest
+Oklahoma City Thunder,OKC,Paycom Center,18203,Small,West,Northwest
+Portland Trail Blazers,POR,Moda Center,19393,Medium,West,Northwest
+Utah Jazz,UTA,Delta Center,18306,Small,West,Northwest
+Golden State Warriors,GSW,Chase Center,18064,Large,West,Pacific
+Los Angeles Clippers,LAC,Intuit Dome,18000,Large,West,Pacific
+Los Angeles Lakers,LAL,Crypto.com Arena,18997,Large,West,Pacific
+Phoenix Suns,PHO,Footprint Center,17125,Large,West,Pacific
+Sacramento Kings,SAC,Golden 1 Center,17608,Medium,West,Pacific
+Dallas Mavericks,DAL,American Airlines Center,19200,Large,West,Southwest
+Houston Rockets,HOU,Toyota Center,18055,Large,West,Southwest
+Memphis Grizzlies,MEM,FedExForum,17794,Small,West,Southwest
+New Orleans Pelicans,NOP,Smoothie King Center,16867,Small,West,Southwest
+San Antonio Spurs,SAS,Frost Bank Center,18418,Medium,West,Southwest
